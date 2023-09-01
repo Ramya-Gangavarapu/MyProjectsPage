@@ -7,7 +7,6 @@ Welcome to **My Projects Page**, where you can explore a collection of my static
 - [Description](#description)
 - [Project Sections](#project-sections)
 - [Usage](#usage)
-- [License](#license)
 
 ## Description 📝
 
@@ -44,9 +43,5 @@ To explore the projects on this webpage:
 3. Use the "Back" buttons to return to the landing page.
 
 Feel free to explore and enjoy the projects! 🚀
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
 Thank you for visiting **My Projects Page**. Explore the projects and enjoy your journey through the world of web development! 🌍🔍
